@@ -1,0 +1,590 @@
+{27}	=>	{58}	support=1.00%	confidence=38.46%	
+{58}	=>	{27}	support=1.00%	confidence=52.63%	
+{27}	=>	{354}	support=1.00%	confidence=38.46%	
+{354}	=>	{27}	support=1.00%	confidence=15.38%	
+{27}	=>	{357}	support=1.00%	confidence=38.46%	
+{357}	=>	{27}	support=1.00%	confidence=66.67%	
+{27}	=>	{752}	support=1.00%	confidence=38.46%	
+{752}	=>	{27}	support=1.00%	confidence=25.00%	
+{33}	=>	{217}	support=1.30%	confidence=54.17%	
+{217}	=>	{33}	support=1.30%	confidence=19.40%	
+{33}	=>	{283}	support=1.30%	confidence=54.17%	
+{283}	=>	{33}	support=1.30%	confidence=22.81%	
+{33}	=>	{346}	support=1.30%	confidence=54.17%	
+{346}	=>	{33}	support=1.30%	confidence=31.71%	
+{33}	=>	{515}	support=1.20%	confidence=50.00%	
+{515}	=>	{33}	support=1.20%	confidence=70.59%	
+{39}	=>	{825}	support=1.30%	confidence=27.08%	
+{825}	=>	{39}	support=1.30%	confidence=52.00%	
+{58}	=>	{354}	support=1.40%	confidence=73.68%	
+{354}	=>	{58}	support=1.40%	confidence=21.54%	
+{58}	=>	{357}	support=1.00%	confidence=52.63%	
+{357}	=>	{58}	support=1.00%	confidence=66.67%	
+{58}	=>	{480}	support=1.00%	confidence=52.63%	
+{480}	=>	{58}	support=1.00%	confidence=35.71%	
+{58}	=>	{752}	support=1.10%	confidence=57.89%	
+{752}	=>	{58}	support=1.10%	confidence=27.50%	
+{70}	=>	{684}	support=1.00%	confidence=40.00%	
+{684}	=>	{70}	support=1.00%	confidence=19.23%	
+{70}	=>	{819}	support=1.00%	confidence=40.00%	
+{819}	=>	{70}	support=1.00%	confidence=83.33%	
+{71}	=>	{283}	support=1.00%	confidence=20.41%	
+{283}	=>	{71}	support=1.00%	confidence=17.54%	
+{71}	=>	{766}	support=1.00%	confidence=20.41%	
+{766}	=>	{71}	support=1.00%	confidence=18.52%	
+{75}	=>	{438}	support=1.20%	confidence=40.00%	
+{438}	=>	{75}	support=1.20%	confidence=22.22%	
+{75}	=>	{684}	support=1.20%	confidence=40.00%	
+{684}	=>	{75}	support=1.20%	confidence=23.08%	
+{158}	=>	{583}	support=1.10%	confidence=73.33%	
+{583}	=>	{158}	support=1.10%	confidence=57.89%	
+{158}	=>	{617}	support=1.00%	confidence=66.67%	
+{617}	=>	{158}	support=1.00%	confidence=38.46%	
+{177}	=>	{310}	support=1.00%	confidence=16.67%	
+{310}	=>	{177}	support=1.00%	confidence=50.00%	
+{217}	=>	{283}	support=1.40%	confidence=20.90%	
+{283}	=>	{217}	support=1.40%	confidence=24.56%	
+{217}	=>	{346}	support=2.30%	confidence=34.33%	
+{346}	=>	{217}	support=2.30%	confidence=56.10%	
+{217}	=>	{394}	support=1.00%	confidence=14.93%	
+{394}	=>	{217}	support=1.00%	confidence=76.92%	
+{217}	=>	{487}	support=1.10%	confidence=16.42%	
+{487}	=>	{217}	support=1.10%	confidence=27.50%	
+{217}	=>	{515}	support=1.40%	confidence=20.90%	
+{515}	=>	{217}	support=1.40%	confidence=82.35%	
+{217}	=>	{661}	support=1.00%	confidence=14.93%	
+{661}	=>	{217}	support=1.00%	confidence=30.30%	
+{283}	=>	{346}	support=1.40%	confidence=24.56%	
+{346}	=>	{283}	support=1.40%	confidence=34.15%	
+{283}	=>	{515}	support=1.30%	confidence=22.81%	
+{515}	=>	{283}	support=1.30%	confidence=76.47%	
+{310}	=>	{709}	support=1.00%	confidence=50.00%	
+{709}	=>	{310}	support=1.00%	confidence=90.91%	
+{310}	=>	{970}	support=1.00%	confidence=50.00%	
+{970}	=>	{310}	support=1.00%	confidence=38.46%	
+{346}	=>	{515}	support=1.30%	confidence=31.71%	
+{515}	=>	{346}	support=1.30%	confidence=76.47%	
+{346}	=>	{561}	support=1.20%	confidence=29.27%	
+{561}	=>	{346}	support=1.20%	confidence=36.36%	
+{346}	=>	{888}	support=1.10%	confidence=26.83%	
+{888}	=>	{346}	support=1.10%	confidence=36.67%	
+{348}	=>	{912}	support=1.00%	confidence=47.62%	
+{912}	=>	{348}	support=1.00%	confidence=45.45%	
+{354}	=>	{357}	support=1.00%	confidence=15.38%	
+{357}	=>	{354}	support=1.00%	confidence=66.67%	
+{354}	=>	{480}	support=1.10%	confidence=16.92%	
+{480}	=>	{354}	support=1.10%	confidence=39.29%	
+{354}	=>	{583}	support=1.00%	confidence=15.38%	
+{583}	=>	{354}	support=1.00%	confidence=52.63%	
+{354}	=>	{752}	support=1.30%	confidence=20.00%	
+{752}	=>	{354}	support=1.30%	confidence=32.50%	
+{357}	=>	{480}	support=1.00%	confidence=66.67%	
+{480}	=>	{357}	support=1.00%	confidence=35.71%	
+{357}	=>	{752}	support=1.00%	confidence=66.67%	
+{752}	=>	{357}	support=1.00%	confidence=25.00%	
+{368}	=>	{438}	support=1.00%	confidence=12.50%	
+{438}	=>	{368}	support=1.00%	confidence=18.52%	
+{368}	=>	{529}	support=1.00%	confidence=12.50%	
+{529}	=>	{368}	support=1.00%	confidence=17.86%	
+{368}	=>	{829}	support=1.20%	confidence=15.00%	
+{829}	=>	{368}	support=1.20%	confidence=21.05%	
+{368}	=>	{937}	support=1.00%	confidence=12.50%	
+{937}	=>	{368}	support=1.00%	confidence=22.22%	
+{392}	=>	{801}	support=1.10%	confidence=42.31%	
+{801}	=>	{392}	support=1.10%	confidence=91.67%	
+{392}	=>	{862}	support=1.50%	confidence=57.69%	
+{862}	=>	{392}	support=1.50%	confidence=37.50%	
+{438}	=>	{684}	support=1.20%	confidence=22.22%	
+{684}	=>	{438}	support=1.20%	confidence=23.08%	
+{460}	=>	{684}	support=1.00%	confidence=18.87%	
+{684}	=>	{460}	support=1.00%	confidence=19.23%	
+{461}	=>	{569}	support=1.00%	confidence=66.67%	
+{569}	=>	{461}	support=1.00%	confidence=26.32%	
+{461}	=>	{801}	support=1.00%	confidence=66.67%	
+{801}	=>	{461}	support=1.00%	confidence=83.33%	
+{461}	=>	{862}	support=1.00%	confidence=66.67%	
+{862}	=>	{461}	support=1.00%	confidence=25.00%	
+{470}	=>	{534}	support=1.10%	confidence=27.50%	
+{534}	=>	{470}	support=1.10%	confidence=64.71%	
+{470}	=>	{995}	support=1.00%	confidence=25.00%	
+{995}	=>	{470}	support=1.00%	confidence=50.00%	
+{480}	=>	{752}	support=1.00%	confidence=35.71%	
+{752}	=>	{480}	support=1.00%	confidence=25.00%	
+{487}	=>	{510}	support=1.40%	confidence=35.00%	
+{510}	=>	{487}	support=1.40%	confidence=46.67%	
+{509}	=>	{569}	support=1.10%	confidence=31.43%	
+{569}	=>	{509}	support=1.10%	confidence=28.95%	
+{516}	=>	{744}	support=1.00%	confidence=41.67%	
+{744}	=>	{516}	support=1.00%	confidence=35.71%	
+{517}	=>	{883}	support=1.00%	confidence=55.56%	
+{883}	=>	{517}	support=1.00%	confidence=22.22%	
+{529}	=>	{598}	support=1.20%	confidence=21.43%	
+{598}	=>	{529}	support=1.20%	confidence=35.29%	
+{529}	=>	{782}	support=1.20%	confidence=21.43%	
+{782}	=>	{529}	support=1.20%	confidence=32.43%	
+{534}	=>	{995}	support=1.00%	confidence=58.82%	
+{995}	=>	{534}	support=1.00%	confidence=50.00%	
+{538}	=>	{878}	support=1.10%	confidence=26.19%	
+{878}	=>	{538}	support=1.10%	confidence=40.74%	
+{561}	=>	{888}	support=1.20%	confidence=36.36%	
+{888}	=>	{561}	support=1.20%	confidence=40.00%	
+{569}	=>	{801}	support=1.00%	confidence=26.32%	
+{801}	=>	{569}	support=1.00%	confidence=83.33%	
+{569}	=>	{862}	support=1.10%	confidence=28.95%	
+{862}	=>	{569}	support=1.10%	confidence=27.50%	
+{571}	=>	{623}	support=1.00%	confidence=32.26%	
+{623}	=>	{571}	support=1.00%	confidence=41.67%	
+{571}	=>	{795}	support=1.00%	confidence=32.26%	
+{795}	=>	{571}	support=1.00%	confidence=26.32%	
+{571}	=>	{853}	support=1.00%	confidence=32.26%	
+{853}	=>	{571}	support=1.00%	confidence=52.63%	
+{583}	=>	{617}	support=1.10%	confidence=57.89%	
+{617}	=>	{583}	support=1.10%	confidence=42.31%	
+{598}	=>	{782}	support=1.00%	confidence=29.41%	
+{782}	=>	{598}	support=1.00%	confidence=27.03%	
+{623}	=>	{853}	support=1.00%	confidence=41.67%	
+{853}	=>	{623}	support=1.00%	confidence=52.63%	
+{661}	=>	{720}	support=1.00%	confidence=30.30%	
+{720}	=>	{661}	support=1.00%	confidence=25.00%	
+{661}	=>	{780}	support=1.00%	confidence=30.30%	
+{780}	=>	{661}	support=1.00%	confidence=31.25%	
+{720}	=>	{780}	support=1.00%	confidence=25.00%	
+{780}	=>	{720}	support=1.00%	confidence=31.25%	
+{788}	=>	{956}	support=1.20%	confidence=38.71%	
+{956}	=>	{788}	support=1.20%	confidence=35.29%	
+{789}	=>	{829}	support=1.50%	confidence=44.12%	
+{829}	=>	{789}	support=1.50%	confidence=26.32%	
+{801}	=>	{862}	support=1.20%	confidence=100.00%	
+{862}	=>	{801}	support=1.20%	confidence=30.00%	
+{27 ,58}	=>	{354}	support=1.00%	confidence=100.00%	
+{27 ,354}	=>	{58}	support=1.00%	confidence=100.00%	
+{27}	=>	{58 ,354}	support=1.00%	confidence=38.46%	
+{58 ,354}	=>	{27}	support=1.00%	confidence=71.43%	
+{58}	=>	{27 ,354}	support=1.00%	confidence=52.63%	
+{354}	=>	{27 ,58}	support=1.00%	confidence=15.38%	
+{27 ,58}	=>	{357}	support=1.00%	confidence=100.00%	
+{27 ,357}	=>	{58}	support=1.00%	confidence=100.00%	
+{27}	=>	{58 ,357}	support=1.00%	confidence=38.46%	
+{58 ,357}	=>	{27}	support=1.00%	confidence=100.00%	
+{58}	=>	{27 ,357}	support=1.00%	confidence=52.63%	
+{357}	=>	{27 ,58}	support=1.00%	confidence=66.67%	
+{27 ,58}	=>	{752}	support=1.00%	confidence=100.00%	
+{27 ,752}	=>	{58}	support=1.00%	confidence=100.00%	
+{27}	=>	{58 ,752}	support=1.00%	confidence=38.46%	
+{58 ,752}	=>	{27}	support=1.00%	confidence=90.91%	
+{58}	=>	{27 ,752}	support=1.00%	confidence=52.63%	
+{752}	=>	{27 ,58}	support=1.00%	confidence=25.00%	
+{27 ,354}	=>	{357}	support=1.00%	confidence=100.00%	
+{27 ,357}	=>	{354}	support=1.00%	confidence=100.00%	
+{27}	=>	{354 ,357}	support=1.00%	confidence=38.46%	
+{354 ,357}	=>	{27}	support=1.00%	confidence=100.00%	
+{354}	=>	{27 ,357}	support=1.00%	confidence=15.38%	
+{357}	=>	{27 ,354}	support=1.00%	confidence=66.67%	
+{27 ,354}	=>	{752}	support=1.00%	confidence=100.00%	
+{27 ,752}	=>	{354}	support=1.00%	confidence=100.00%	
+{27}	=>	{354 ,752}	support=1.00%	confidence=38.46%	
+{354 ,752}	=>	{27}	support=1.00%	confidence=76.92%	
+{354}	=>	{27 ,752}	support=1.00%	confidence=15.38%	
+{752}	=>	{27 ,354}	support=1.00%	confidence=25.00%	
+{27 ,357}	=>	{752}	support=1.00%	confidence=100.00%	
+{27 ,752}	=>	{357}	support=1.00%	confidence=100.00%	
+{27}	=>	{357 ,752}	support=1.00%	confidence=38.46%	
+{357 ,752}	=>	{27}	support=1.00%	confidence=100.00%	
+{357}	=>	{27 ,752}	support=1.00%	confidence=66.67%	
+{752}	=>	{27 ,357}	support=1.00%	confidence=25.00%	
+{33 ,217}	=>	{283}	support=1.30%	confidence=100.00%	
+{33 ,283}	=>	{217}	support=1.30%	confidence=100.00%	
+{33}	=>	{217 ,283}	support=1.30%	confidence=54.17%	
+{217 ,283}	=>	{33}	support=1.30%	confidence=92.86%	
+{217}	=>	{33 ,283}	support=1.30%	confidence=19.40%	
+{283}	=>	{33 ,217}	support=1.30%	confidence=22.81%	
+{33 ,217}	=>	{346}	support=1.30%	confidence=100.00%	
+{33 ,346}	=>	{217}	support=1.30%	confidence=100.00%	
+{33}	=>	{217 ,346}	support=1.30%	confidence=54.17%	
+{217 ,346}	=>	{33}	support=1.30%	confidence=56.52%	
+{217}	=>	{33 ,346}	support=1.30%	confidence=19.40%	
+{346}	=>	{33 ,217}	support=1.30%	confidence=31.71%	
+{33 ,217}	=>	{515}	support=1.20%	confidence=92.31%	
+{33 ,515}	=>	{217}	support=1.20%	confidence=100.00%	
+{33}	=>	{217 ,515}	support=1.20%	confidence=50.00%	
+{217 ,515}	=>	{33}	support=1.20%	confidence=85.71%	
+{217}	=>	{33 ,515}	support=1.20%	confidence=17.91%	
+{515}	=>	{33 ,217}	support=1.20%	confidence=70.59%	
+{33 ,283}	=>	{346}	support=1.30%	confidence=100.00%	
+{33 ,346}	=>	{283}	support=1.30%	confidence=100.00%	
+{33}	=>	{283 ,346}	support=1.30%	confidence=54.17%	
+{283 ,346}	=>	{33}	support=1.30%	confidence=92.86%	
+{283}	=>	{33 ,346}	support=1.30%	confidence=22.81%	
+{346}	=>	{33 ,283}	support=1.30%	confidence=31.71%	
+{33 ,283}	=>	{515}	support=1.20%	confidence=92.31%	
+{33 ,515}	=>	{283}	support=1.20%	confidence=100.00%	
+{33}	=>	{283 ,515}	support=1.20%	confidence=50.00%	
+{283 ,515}	=>	{33}	support=1.20%	confidence=92.31%	
+{283}	=>	{33 ,515}	support=1.20%	confidence=21.05%	
+{515}	=>	{33 ,283}	support=1.20%	confidence=70.59%	
+{33 ,346}	=>	{515}	support=1.20%	confidence=92.31%	
+{33 ,515}	=>	{346}	support=1.20%	confidence=100.00%	
+{33}	=>	{346 ,515}	support=1.20%	confidence=50.00%	
+{346 ,515}	=>	{33}	support=1.20%	confidence=92.31%	
+{346}	=>	{33 ,515}	support=1.20%	confidence=29.27%	
+{515}	=>	{33 ,346}	support=1.20%	confidence=70.59%	
+{58 ,354}	=>	{357}	support=1.00%	confidence=71.43%	
+{58 ,357}	=>	{354}	support=1.00%	confidence=100.00%	
+{58}	=>	{354 ,357}	support=1.00%	confidence=52.63%	
+{354 ,357}	=>	{58}	support=1.00%	confidence=100.00%	
+{354}	=>	{58 ,357}	support=1.00%	confidence=15.38%	
+{357}	=>	{58 ,354}	support=1.00%	confidence=66.67%	
+{58 ,354}	=>	{480}	support=1.00%	confidence=71.43%	
+{58 ,480}	=>	{354}	support=1.00%	confidence=100.00%	
+{58}	=>	{354 ,480}	support=1.00%	confidence=52.63%	
+{354 ,480}	=>	{58}	support=1.00%	confidence=90.91%	
+{354}	=>	{58 ,480}	support=1.00%	confidence=15.38%	
+{480}	=>	{58 ,354}	support=1.00%	confidence=35.71%	
+{58 ,354}	=>	{752}	support=1.10%	confidence=78.57%	
+{58 ,752}	=>	{354}	support=1.10%	confidence=100.00%	
+{58}	=>	{354 ,752}	support=1.10%	confidence=57.89%	
+{354 ,752}	=>	{58}	support=1.10%	confidence=84.62%	
+{354}	=>	{58 ,752}	support=1.10%	confidence=16.92%	
+{752}	=>	{58 ,354}	support=1.10%	confidence=27.50%	
+{58 ,357}	=>	{752}	support=1.00%	confidence=100.00%	
+{58 ,752}	=>	{357}	support=1.00%	confidence=90.91%	
+{58}	=>	{357 ,752}	support=1.00%	confidence=52.63%	
+{357 ,752}	=>	{58}	support=1.00%	confidence=100.00%	
+{357}	=>	{58 ,752}	support=1.00%	confidence=66.67%	
+{752}	=>	{58 ,357}	support=1.00%	confidence=25.00%	
+{58 ,480}	=>	{752}	support=1.00%	confidence=100.00%	
+{58 ,752}	=>	{480}	support=1.00%	confidence=90.91%	
+{58}	=>	{480 ,752}	support=1.00%	confidence=52.63%	
+{480 ,752}	=>	{58}	support=1.00%	confidence=100.00%	
+{480}	=>	{58 ,752}	support=1.00%	confidence=35.71%	
+{752}	=>	{58 ,480}	support=1.00%	confidence=25.00%	
+{75 ,438}	=>	{684}	support=1.10%	confidence=91.67%	
+{75 ,684}	=>	{438}	support=1.10%	confidence=91.67%	
+{75}	=>	{438 ,684}	support=1.10%	confidence=36.67%	
+{438 ,684}	=>	{75}	support=1.10%	confidence=91.67%	
+{438}	=>	{75 ,684}	support=1.10%	confidence=20.37%	
+{684}	=>	{75 ,438}	support=1.10%	confidence=21.15%	
+{158 ,583}	=>	{617}	support=1.00%	confidence=90.91%	
+{158 ,617}	=>	{583}	support=1.00%	confidence=100.00%	
+{158}	=>	{583 ,617}	support=1.00%	confidence=66.67%	
+{583 ,617}	=>	{158}	support=1.00%	confidence=90.91%	
+{583}	=>	{158 ,617}	support=1.00%	confidence=52.63%	
+{617}	=>	{158 ,583}	support=1.00%	confidence=38.46%	
+{217 ,283}	=>	{346}	support=1.40%	confidence=100.00%	
+{217 ,346}	=>	{283}	support=1.40%	confidence=60.87%	
+{217}	=>	{283 ,346}	support=1.40%	confidence=20.90%	
+{283 ,346}	=>	{217}	support=1.40%	confidence=100.00%	
+{283}	=>	{217 ,346}	support=1.40%	confidence=24.56%	
+{346}	=>	{217 ,283}	support=1.40%	confidence=34.15%	
+{217 ,283}	=>	{515}	support=1.30%	confidence=92.86%	
+{217 ,515}	=>	{283}	support=1.30%	confidence=92.86%	
+{217}	=>	{283 ,515}	support=1.30%	confidence=19.40%	
+{283 ,515}	=>	{217}	support=1.30%	confidence=100.00%	
+{283}	=>	{217 ,515}	support=1.30%	confidence=22.81%	
+{515}	=>	{217 ,283}	support=1.30%	confidence=76.47%	
+{217 ,346}	=>	{515}	support=1.30%	confidence=56.52%	
+{217 ,515}	=>	{346}	support=1.30%	confidence=92.86%	
+{217}	=>	{346 ,515}	support=1.30%	confidence=19.40%	
+{346 ,515}	=>	{217}	support=1.30%	confidence=100.00%	
+{346}	=>	{217 ,515}	support=1.30%	confidence=31.71%	
+{515}	=>	{217 ,346}	support=1.30%	confidence=76.47%	
+{283 ,346}	=>	{515}	support=1.30%	confidence=92.86%	
+{283 ,515}	=>	{346}	support=1.30%	confidence=100.00%	
+{283}	=>	{346 ,515}	support=1.30%	confidence=22.81%	
+{346 ,515}	=>	{283}	support=1.30%	confidence=100.00%	
+{346}	=>	{283 ,515}	support=1.30%	confidence=31.71%	
+{515}	=>	{283 ,346}	support=1.30%	confidence=76.47%	
+{346 ,561}	=>	{888}	support=1.10%	confidence=91.67%	
+{346 ,888}	=>	{561}	support=1.10%	confidence=100.00%	
+{346}	=>	{561 ,888}	support=1.10%	confidence=26.83%	
+{561 ,888}	=>	{346}	support=1.10%	confidence=91.67%	
+{561}	=>	{346 ,888}	support=1.10%	confidence=33.33%	
+{888}	=>	{346 ,561}	support=1.10%	confidence=36.67%	
+{354 ,357}	=>	{752}	support=1.00%	confidence=100.00%	
+{354 ,752}	=>	{357}	support=1.00%	confidence=76.92%	
+{354}	=>	{357 ,752}	support=1.00%	confidence=15.38%	
+{357 ,752}	=>	{354}	support=1.00%	confidence=100.00%	
+{357}	=>	{354 ,752}	support=1.00%	confidence=66.67%	
+{752}	=>	{354 ,357}	support=1.00%	confidence=25.00%	
+{354 ,480}	=>	{752}	support=1.00%	confidence=90.91%	
+{354 ,752}	=>	{480}	support=1.00%	confidence=76.92%	
+{354}	=>	{480 ,752}	support=1.00%	confidence=15.38%	
+{480 ,752}	=>	{354}	support=1.00%	confidence=100.00%	
+{480}	=>	{354 ,752}	support=1.00%	confidence=35.71%	
+{752}	=>	{354 ,480}	support=1.00%	confidence=25.00%	
+{392 ,801}	=>	{862}	support=1.10%	confidence=100.00%	
+{392 ,862}	=>	{801}	support=1.10%	confidence=73.33%	
+{392}	=>	{801 ,862}	support=1.10%	confidence=42.31%	
+{801 ,862}	=>	{392}	support=1.10%	confidence=91.67%	
+{801}	=>	{392 ,862}	support=1.10%	confidence=91.67%	
+{862}	=>	{392 ,801}	support=1.10%	confidence=27.50%	
+{461 ,569}	=>	{801}	support=1.00%	confidence=100.00%	
+{461 ,801}	=>	{569}	support=1.00%	confidence=100.00%	
+{461}	=>	{569 ,801}	support=1.00%	confidence=66.67%	
+{569 ,801}	=>	{461}	support=1.00%	confidence=100.00%	
+{569}	=>	{461 ,801}	support=1.00%	confidence=26.32%	
+{801}	=>	{461 ,569}	support=1.00%	confidence=83.33%	
+{461 ,569}	=>	{862}	support=1.00%	confidence=100.00%	
+{461 ,862}	=>	{569}	support=1.00%	confidence=100.00%	
+{461}	=>	{569 ,862}	support=1.00%	confidence=66.67%	
+{569 ,862}	=>	{461}	support=1.00%	confidence=90.91%	
+{569}	=>	{461 ,862}	support=1.00%	confidence=26.32%	
+{862}	=>	{461 ,569}	support=1.00%	confidence=25.00%	
+{461 ,801}	=>	{862}	support=1.00%	confidence=100.00%	
+{461 ,862}	=>	{801}	support=1.00%	confidence=100.00%	
+{461}	=>	{801 ,862}	support=1.00%	confidence=66.67%	
+{801 ,862}	=>	{461}	support=1.00%	confidence=83.33%	
+{801}	=>	{461 ,862}	support=1.00%	confidence=83.33%	
+{862}	=>	{461 ,801}	support=1.00%	confidence=25.00%	
+{470 ,534}	=>	{995}	support=1.00%	confidence=90.91%	
+{470 ,995}	=>	{534}	support=1.00%	confidence=100.00%	
+{470}	=>	{534 ,995}	support=1.00%	confidence=25.00%	
+{534 ,995}	=>	{470}	support=1.00%	confidence=100.00%	
+{534}	=>	{470 ,995}	support=1.00%	confidence=58.82%	
+{995}	=>	{470 ,534}	support=1.00%	confidence=50.00%	
+{529 ,598}	=>	{782}	support=1.00%	confidence=83.33%	
+{529 ,782}	=>	{598}	support=1.00%	confidence=83.33%	
+{529}	=>	{598 ,782}	support=1.00%	confidence=17.86%	
+{598 ,782}	=>	{529}	support=1.00%	confidence=100.00%	
+{598}	=>	{529 ,782}	support=1.00%	confidence=29.41%	
+{782}	=>	{529 ,598}	support=1.00%	confidence=27.03%	
+{569 ,801}	=>	{862}	support=1.00%	confidence=100.00%	
+{569 ,862}	=>	{801}	support=1.00%	confidence=90.91%	
+{569}	=>	{801 ,862}	support=1.00%	confidence=26.32%	
+{801 ,862}	=>	{569}	support=1.00%	confidence=83.33%	
+{801}	=>	{569 ,862}	support=1.00%	confidence=83.33%	
+{862}	=>	{569 ,801}	support=1.00%	confidence=25.00%	
+{571 ,623}	=>	{853}	support=1.00%	confidence=100.00%	
+{571 ,853}	=>	{623}	support=1.00%	confidence=100.00%	
+{571}	=>	{623 ,853}	support=1.00%	confidence=32.26%	
+{623 ,853}	=>	{571}	support=1.00%	confidence=100.00%	
+{623}	=>	{571 ,853}	support=1.00%	confidence=41.67%	
+{853}	=>	{571 ,623}	support=1.00%	confidence=52.63%	
+{27 ,58 ,354}	=>	{357}	support=1.00%	confidence=100.00%	
+{27 ,58 ,357}	=>	{354}	support=1.00%	confidence=100.00%	
+{27 ,58}	=>	{354 ,357}	support=1.00%	confidence=100.00%	
+{27 ,354 ,357}	=>	{58}	support=1.00%	confidence=100.00%	
+{27 ,354}	=>	{58 ,357}	support=1.00%	confidence=100.00%	
+{27 ,357}	=>	{58 ,354}	support=1.00%	confidence=100.00%	
+{27}	=>	{58 ,354 ,357}	support=1.00%	confidence=38.46%	
+{58 ,354 ,357}	=>	{27}	support=1.00%	confidence=100.00%	
+{58 ,354}	=>	{27 ,357}	support=1.00%	confidence=71.43%	
+{58 ,357}	=>	{27 ,354}	support=1.00%	confidence=100.00%	
+{58}	=>	{27 ,354 ,357}	support=1.00%	confidence=52.63%	
+{354 ,357}	=>	{27 ,58}	support=1.00%	confidence=100.00%	
+{354}	=>	{27 ,58 ,357}	support=1.00%	confidence=15.38%	
+{357}	=>	{27 ,58 ,354}	support=1.00%	confidence=66.67%	
+{27 ,58 ,354}	=>	{752}	support=1.00%	confidence=100.00%	
+{27 ,58 ,752}	=>	{354}	support=1.00%	confidence=100.00%	
+{27 ,58}	=>	{354 ,752}	support=1.00%	confidence=100.00%	
+{27 ,354 ,752}	=>	{58}	support=1.00%	confidence=100.00%	
+{27 ,354}	=>	{58 ,752}	support=1.00%	confidence=100.00%	
+{27 ,752}	=>	{58 ,354}	support=1.00%	confidence=100.00%	
+{27}	=>	{58 ,354 ,752}	support=1.00%	confidence=38.46%	
+{58 ,354 ,752}	=>	{27}	support=1.00%	confidence=90.91%	
+{58 ,354}	=>	{27 ,752}	support=1.00%	confidence=71.43%	
+{58 ,752}	=>	{27 ,354}	support=1.00%	confidence=90.91%	
+{58}	=>	{27 ,354 ,752}	support=1.00%	confidence=52.63%	
+{354 ,752}	=>	{27 ,58}	support=1.00%	confidence=76.92%	
+{354}	=>	{27 ,58 ,752}	support=1.00%	confidence=15.38%	
+{752}	=>	{27 ,58 ,354}	support=1.00%	confidence=25.00%	
+{27 ,58 ,357}	=>	{752}	support=1.00%	confidence=100.00%	
+{27 ,58 ,752}	=>	{357}	support=1.00%	confidence=100.00%	
+{27 ,58}	=>	{357 ,752}	support=1.00%	confidence=100.00%	
+{27 ,357 ,752}	=>	{58}	support=1.00%	confidence=100.00%	
+{27 ,357}	=>	{58 ,752}	support=1.00%	confidence=100.00%	
+{27 ,752}	=>	{58 ,357}	support=1.00%	confidence=100.00%	
+{27}	=>	{58 ,357 ,752}	support=1.00%	confidence=38.46%	
+{58 ,357 ,752}	=>	{27}	support=1.00%	confidence=100.00%	
+{58 ,357}	=>	{27 ,752}	support=1.00%	confidence=100.00%	
+{58 ,752}	=>	{27 ,357}	support=1.00%	confidence=90.91%	
+{58}	=>	{27 ,357 ,752}	support=1.00%	confidence=52.63%	
+{357 ,752}	=>	{27 ,58}	support=1.00%	confidence=100.00%	
+{357}	=>	{27 ,58 ,752}	support=1.00%	confidence=66.67%	
+{752}	=>	{27 ,58 ,357}	support=1.00%	confidence=25.00%	
+{27 ,354 ,357}	=>	{752}	support=1.00%	confidence=100.00%	
+{27 ,354 ,752}	=>	{357}	support=1.00%	confidence=100.00%	
+{27 ,354}	=>	{357 ,752}	support=1.00%	confidence=100.00%	
+{27 ,357 ,752}	=>	{354}	support=1.00%	confidence=100.00%	
+{27 ,357}	=>	{354 ,752}	support=1.00%	confidence=100.00%	
+{27 ,752}	=>	{354 ,357}	support=1.00%	confidence=100.00%	
+{27}	=>	{354 ,357 ,752}	support=1.00%	confidence=38.46%	
+{354 ,357 ,752}	=>	{27}	support=1.00%	confidence=100.00%	
+{354 ,357}	=>	{27 ,752}	support=1.00%	confidence=100.00%	
+{354 ,752}	=>	{27 ,357}	support=1.00%	confidence=76.92%	
+{354}	=>	{27 ,357 ,752}	support=1.00%	confidence=15.38%	
+{357 ,752}	=>	{27 ,354}	support=1.00%	confidence=100.00%	
+{357}	=>	{27 ,354 ,752}	support=1.00%	confidence=66.67%	
+{752}	=>	{27 ,354 ,357}	support=1.00%	confidence=25.00%	
+{33 ,217 ,283}	=>	{346}	support=1.30%	confidence=100.00%	
+{33 ,217 ,346}	=>	{283}	support=1.30%	confidence=100.00%	
+{33 ,217}	=>	{283 ,346}	support=1.30%	confidence=100.00%	
+{33 ,283 ,346}	=>	{217}	support=1.30%	confidence=100.00%	
+{33 ,283}	=>	{217 ,346}	support=1.30%	confidence=100.00%	
+{33 ,346}	=>	{217 ,283}	support=1.30%	confidence=100.00%	
+{33}	=>	{217 ,283 ,346}	support=1.30%	confidence=54.17%	
+{217 ,283 ,346}	=>	{33}	support=1.30%	confidence=92.86%	
+{217 ,283}	=>	{33 ,346}	support=1.30%	confidence=92.86%	
+{217 ,346}	=>	{33 ,283}	support=1.30%	confidence=56.52%	
+{217}	=>	{33 ,283 ,346}	support=1.30%	confidence=19.40%	
+{283 ,346}	=>	{33 ,217}	support=1.30%	confidence=92.86%	
+{283}	=>	{33 ,217 ,346}	support=1.30%	confidence=22.81%	
+{346}	=>	{33 ,217 ,283}	support=1.30%	confidence=31.71%	
+{33 ,217 ,283}	=>	{515}	support=1.20%	confidence=92.31%	
+{33 ,217 ,515}	=>	{283}	support=1.20%	confidence=100.00%	
+{33 ,217}	=>	{283 ,515}	support=1.20%	confidence=92.31%	
+{33 ,283 ,515}	=>	{217}	support=1.20%	confidence=100.00%	
+{33 ,283}	=>	{217 ,515}	support=1.20%	confidence=92.31%	
+{33 ,515}	=>	{217 ,283}	support=1.20%	confidence=100.00%	
+{33}	=>	{217 ,283 ,515}	support=1.20%	confidence=50.00%	
+{217 ,283 ,515}	=>	{33}	support=1.20%	confidence=92.31%	
+{217 ,283}	=>	{33 ,515}	support=1.20%	confidence=85.71%	
+{217 ,515}	=>	{33 ,283}	support=1.20%	confidence=85.71%	
+{217}	=>	{33 ,283 ,515}	support=1.20%	confidence=17.91%	
+{283 ,515}	=>	{33 ,217}	support=1.20%	confidence=92.31%	
+{283}	=>	{33 ,217 ,515}	support=1.20%	confidence=21.05%	
+{515}	=>	{33 ,217 ,283}	support=1.20%	confidence=70.59%	
+{33 ,217 ,346}	=>	{515}	support=1.20%	confidence=92.31%	
+{33 ,217 ,515}	=>	{346}	support=1.20%	confidence=100.00%	
+{33 ,217}	=>	{346 ,515}	support=1.20%	confidence=92.31%	
+{33 ,346 ,515}	=>	{217}	support=1.20%	confidence=100.00%	
+{33 ,346}	=>	{217 ,515}	support=1.20%	confidence=92.31%	
+{33 ,515}	=>	{217 ,346}	support=1.20%	confidence=100.00%	
+{33}	=>	{217 ,346 ,515}	support=1.20%	confidence=50.00%	
+{217 ,346 ,515}	=>	{33}	support=1.20%	confidence=92.31%	
+{217 ,346}	=>	{33 ,515}	support=1.20%	confidence=52.17%	
+{217 ,515}	=>	{33 ,346}	support=1.20%	confidence=85.71%	
+{217}	=>	{33 ,346 ,515}	support=1.20%	confidence=17.91%	
+{346 ,515}	=>	{33 ,217}	support=1.20%	confidence=92.31%	
+{346}	=>	{33 ,217 ,515}	support=1.20%	confidence=29.27%	
+{515}	=>	{33 ,217 ,346}	support=1.20%	confidence=70.59%	
+{33 ,283 ,346}	=>	{515}	support=1.20%	confidence=92.31%	
+{33 ,283 ,515}	=>	{346}	support=1.20%	confidence=100.00%	
+{33 ,283}	=>	{346 ,515}	support=1.20%	confidence=92.31%	
+{33 ,346 ,515}	=>	{283}	support=1.20%	confidence=100.00%	
+{33 ,346}	=>	{283 ,515}	support=1.20%	confidence=92.31%	
+{33 ,515}	=>	{283 ,346}	support=1.20%	confidence=100.00%	
+{33}	=>	{283 ,346 ,515}	support=1.20%	confidence=50.00%	
+{283 ,346 ,515}	=>	{33}	support=1.20%	confidence=92.31%	
+{283 ,346}	=>	{33 ,515}	support=1.20%	confidence=85.71%	
+{283 ,515}	=>	{33 ,346}	support=1.20%	confidence=92.31%	
+{283}	=>	{33 ,346 ,515}	support=1.20%	confidence=21.05%	
+{346 ,515}	=>	{33 ,283}	support=1.20%	confidence=92.31%	
+{346}	=>	{33 ,283 ,515}	support=1.20%	confidence=29.27%	
+{515}	=>	{33 ,283 ,346}	support=1.20%	confidence=70.59%	
+{58 ,354 ,357}	=>	{752}	support=1.00%	confidence=100.00%	
+{58 ,354 ,752}	=>	{357}	support=1.00%	confidence=90.91%	
+{58 ,354}	=>	{357 ,752}	support=1.00%	confidence=71.43%	
+{58 ,357 ,752}	=>	{354}	support=1.00%	confidence=100.00%	
+{58 ,357}	=>	{354 ,752}	support=1.00%	confidence=100.00%	
+{58 ,752}	=>	{354 ,357}	support=1.00%	confidence=90.91%	
+{58}	=>	{354 ,357 ,752}	support=1.00%	confidence=52.63%	
+{354 ,357 ,752}	=>	{58}	support=1.00%	confidence=100.00%	
+{354 ,357}	=>	{58 ,752}	support=1.00%	confidence=100.00%	
+{354 ,752}	=>	{58 ,357}	support=1.00%	confidence=76.92%	
+{354}	=>	{58 ,357 ,752}	support=1.00%	confidence=15.38%	
+{357 ,752}	=>	{58 ,354}	support=1.00%	confidence=100.00%	
+{357}	=>	{58 ,354 ,752}	support=1.00%	confidence=66.67%	
+{752}	=>	{58 ,354 ,357}	support=1.00%	confidence=25.00%	
+{58 ,354 ,480}	=>	{752}	support=1.00%	confidence=100.00%	
+{58 ,354 ,752}	=>	{480}	support=1.00%	confidence=90.91%	
+{58 ,354}	=>	{480 ,752}	support=1.00%	confidence=71.43%	
+{58 ,480 ,752}	=>	{354}	support=1.00%	confidence=100.00%	
+{58 ,480}	=>	{354 ,752}	support=1.00%	confidence=100.00%	
+{58 ,752}	=>	{354 ,480}	support=1.00%	confidence=90.91%	
+{58}	=>	{354 ,480 ,752}	support=1.00%	confidence=52.63%	
+{354 ,480 ,752}	=>	{58}	support=1.00%	confidence=100.00%	
+{354 ,480}	=>	{58 ,752}	support=1.00%	confidence=90.91%	
+{354 ,752}	=>	{58 ,480}	support=1.00%	confidence=76.92%	
+{354}	=>	{58 ,480 ,752}	support=1.00%	confidence=15.38%	
+{480 ,752}	=>	{58 ,354}	support=1.00%	confidence=100.00%	
+{480}	=>	{58 ,354 ,752}	support=1.00%	confidence=35.71%	
+{752}	=>	{58 ,354 ,480}	support=1.00%	confidence=25.00%	
+{217 ,283 ,346}	=>	{515}	support=1.30%	confidence=92.86%	
+{217 ,283 ,515}	=>	{346}	support=1.30%	confidence=100.00%	
+{217 ,283}	=>	{346 ,515}	support=1.30%	confidence=92.86%	
+{217 ,346 ,515}	=>	{283}	support=1.30%	confidence=100.00%	
+{217 ,346}	=>	{283 ,515}	support=1.30%	confidence=56.52%	
+{217 ,515}	=>	{283 ,346}	support=1.30%	confidence=92.86%	
+{217}	=>	{283 ,346 ,515}	support=1.30%	confidence=19.40%	
+{283 ,346 ,515}	=>	{217}	support=1.30%	confidence=100.00%	
+{283 ,346}	=>	{217 ,515}	support=1.30%	confidence=92.86%	
+{283 ,515}	=>	{217 ,346}	support=1.30%	confidence=100.00%	
+{283}	=>	{217 ,346 ,515}	support=1.30%	confidence=22.81%	
+{346 ,515}	=>	{217 ,283}	support=1.30%	confidence=100.00%	
+{346}	=>	{217 ,283 ,515}	support=1.30%	confidence=31.71%	
+{515}	=>	{217 ,283 ,346}	support=1.30%	confidence=76.47%	
+{461 ,569 ,801}	=>	{862}	support=1.00%	confidence=100.00%	
+{461 ,569 ,862}	=>	{801}	support=1.00%	confidence=100.00%	
+{461 ,569}	=>	{801 ,862}	support=1.00%	confidence=100.00%	
+{461 ,801 ,862}	=>	{569}	support=1.00%	confidence=100.00%	
+{461 ,801}	=>	{569 ,862}	support=1.00%	confidence=100.00%	
+{461 ,862}	=>	{569 ,801}	support=1.00%	confidence=100.00%	
+{461}	=>	{569 ,801 ,862}	support=1.00%	confidence=66.67%	
+{569 ,801 ,862}	=>	{461}	support=1.00%	confidence=100.00%	
+{569 ,801}	=>	{461 ,862}	support=1.00%	confidence=100.00%	
+{569 ,862}	=>	{461 ,801}	support=1.00%	confidence=90.91%	
+{569}	=>	{461 ,801 ,862}	support=1.00%	confidence=26.32%	
+{801 ,862}	=>	{461 ,569}	support=1.00%	confidence=83.33%	
+{801}	=>	{461 ,569 ,862}	support=1.00%	confidence=83.33%	
+{862}	=>	{461 ,569 ,801}	support=1.00%	confidence=25.00%	
+{27 ,58 ,354 ,357}	=>	{752}	support=1.00%	confidence=100.00%	
+{27 ,58 ,354 ,752}	=>	{357}	support=1.00%	confidence=100.00%	
+{27 ,58 ,354}	=>	{357 ,752}	support=1.00%	confidence=100.00%	
+{27 ,58 ,357 ,752}	=>	{354}	support=1.00%	confidence=100.00%	
+{27 ,58 ,357}	=>	{354 ,752}	support=1.00%	confidence=100.00%	
+{27 ,58 ,752}	=>	{354 ,357}	support=1.00%	confidence=100.00%	
+{27 ,58}	=>	{354 ,357 ,752}	support=1.00%	confidence=100.00%	
+{27 ,354 ,357 ,752}	=>	{58}	support=1.00%	confidence=100.00%	
+{27 ,354 ,357}	=>	{58 ,752}	support=1.00%	confidence=100.00%	
+{27 ,354 ,752}	=>	{58 ,357}	support=1.00%	confidence=100.00%	
+{27 ,354}	=>	{58 ,357 ,752}	support=1.00%	confidence=100.00%	
+{27 ,357 ,752}	=>	{58 ,354}	support=1.00%	confidence=100.00%	
+{27 ,357}	=>	{58 ,354 ,752}	support=1.00%	confidence=100.00%	
+{27 ,752}	=>	{58 ,354 ,357}	support=1.00%	confidence=100.00%	
+{27}	=>	{58 ,354 ,357 ,752}	support=1.00%	confidence=38.46%	
+{58 ,354 ,357 ,752}	=>	{27}	support=1.00%	confidence=100.00%	
+{58 ,354 ,357}	=>	{27 ,752}	support=1.00%	confidence=100.00%	
+{58 ,354 ,752}	=>	{27 ,357}	support=1.00%	confidence=90.91%	
+{58 ,354}	=>	{27 ,357 ,752}	support=1.00%	confidence=71.43%	
+{58 ,357 ,752}	=>	{27 ,354}	support=1.00%	confidence=100.00%	
+{58 ,357}	=>	{27 ,354 ,752}	support=1.00%	confidence=100.00%	
+{58 ,752}	=>	{27 ,354 ,357}	support=1.00%	confidence=90.91%	
+{58}	=>	{27 ,354 ,357 ,752}	support=1.00%	confidence=52.63%	
+{354 ,357 ,752}	=>	{27 ,58}	support=1.00%	confidence=100.00%	
+{354 ,357}	=>	{27 ,58 ,752}	support=1.00%	confidence=100.00%	
+{354 ,752}	=>	{27 ,58 ,357}	support=1.00%	confidence=76.92%	
+{354}	=>	{27 ,58 ,357 ,752}	support=1.00%	confidence=15.38%	
+{357 ,752}	=>	{27 ,58 ,354}	support=1.00%	confidence=100.00%	
+{357}	=>	{27 ,58 ,354 ,752}	support=1.00%	confidence=66.67%	
+{752}	=>	{27 ,58 ,354 ,357}	support=1.00%	confidence=25.00%	
+{33 ,217 ,283 ,346}	=>	{515}	support=1.20%	confidence=92.31%	
+{33 ,217 ,283 ,515}	=>	{346}	support=1.20%	confidence=100.00%	
+{33 ,217 ,283}	=>	{346 ,515}	support=1.20%	confidence=92.31%	
+{33 ,217 ,346 ,515}	=>	{283}	support=1.20%	confidence=100.00%	
+{33 ,217 ,346}	=>	{283 ,515}	support=1.20%	confidence=92.31%	
+{33 ,217 ,515}	=>	{283 ,346}	support=1.20%	confidence=100.00%	
+{33 ,217}	=>	{283 ,346 ,515}	support=1.20%	confidence=92.31%	
+{33 ,283 ,346 ,515}	=>	{217}	support=1.20%	confidence=100.00%	
+{33 ,283 ,346}	=>	{217 ,515}	support=1.20%	confidence=92.31%	
+{33 ,283 ,515}	=>	{217 ,346}	support=1.20%	confidence=100.00%	
+{33 ,283}	=>	{217 ,346 ,515}	support=1.20%	confidence=92.31%	
+{33 ,346 ,515}	=>	{217 ,283}	support=1.20%	confidence=100.00%	
+{33 ,346}	=>	{217 ,283 ,515}	support=1.20%	confidence=92.31%	
+{33 ,515}	=>	{217 ,283 ,346}	support=1.20%	confidence=100.00%	
+{33}	=>	{217 ,283 ,346 ,515}	support=1.20%	confidence=50.00%	
+{217 ,283 ,346 ,515}	=>	{33}	support=1.20%	confidence=92.31%	
+{217 ,283 ,346}	=>	{33 ,515}	support=1.20%	confidence=85.71%	
+{217 ,283 ,515}	=>	{33 ,346}	support=1.20%	confidence=92.31%	
+{217 ,283}	=>	{33 ,346 ,515}	support=1.20%	confidence=85.71%	
+{217 ,346 ,515}	=>	{33 ,283}	support=1.20%	confidence=92.31%	
+{217 ,346}	=>	{33 ,283 ,515}	support=1.20%	confidence=52.17%	
+{217 ,515}	=>	{33 ,283 ,346}	support=1.20%	confidence=85.71%	
+{217}	=>	{33 ,283 ,346 ,515}	support=1.20%	confidence=17.91%	
+{283 ,346 ,515}	=>	{33 ,217}	support=1.20%	confidence=92.31%	
+{283 ,346}	=>	{33 ,217 ,515}	support=1.20%	confidence=85.71%	
+{283 ,515}	=>	{33 ,217 ,346}	support=1.20%	confidence=92.31%	
+{283}	=>	{33 ,217 ,346 ,515}	support=1.20%	confidence=21.05%	
+{346 ,515}	=>	{33 ,217 ,283}	support=1.20%	confidence=92.31%	
+{346}	=>	{33 ,217 ,283 ,515}	support=1.20%	confidence=29.27%	
+{515}	=>	{33 ,217 ,283 ,346}	support=1.20%	confidence=70.59%	
