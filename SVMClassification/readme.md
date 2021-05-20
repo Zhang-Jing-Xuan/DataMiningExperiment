@@ -7,8 +7,16 @@
 先运行preProcess,然后再敲：
 
 ```
+g++ -o preProcess preProcess.cpp
+./preProcess
+
+cd CplusPlus
 g++ -o svm svm.cpp svm-train.c
-./svm -t 0 -c 4 C:\\Program_Cplusplus\\SVMClassification\\libSVM_train.txt
+./svm -t 0 C:\\Program_Cplusplus\\SVMClassification\\libSVM_train.txt
 g++ -o predict svm.cpp svm-predict.c
 ./predict C:\\Program_Cplusplus\\SVMClassification\\libSVM_test.txt C:\Program_Cplusplus\SVMClassification\libSVM_train.txt.model PredictByCPlusPlus.txt
+
+cd ..
+g++ -o postProcess postProcess.cpp
+./postProcess
 ```
