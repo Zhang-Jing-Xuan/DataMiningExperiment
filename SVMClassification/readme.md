@@ -4,7 +4,6 @@
 
 ### 三. 训练集组成:80(正样本)+240(负样本) ;   测试集组成:20(正样本)+60(负样本)
 
-先运行preProcess,然后再敲：
 
 ```
 g++ -o preProcess preProcess.cpp
