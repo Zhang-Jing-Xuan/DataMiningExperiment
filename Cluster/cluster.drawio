@@ -1,0 +1,169 @@
+<mxfile>
+    <diagram id="wKnLO0NU8fjlvQD5jJUh" name="Page-1">
+        <mxGraphModel dx="1427" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;聚类算法&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-50" y="1095" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;span style=&quot;font-size: 20px&quot;&gt;划分方法&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="355" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;span style=&quot;font-size: 20px&quot;&gt;层次方法&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="917.5" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;span style=&quot;font-size: 20px&quot;&gt;网格方法&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="2020" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;span style=&quot;font-size: 20px&quot;&gt;密度方法&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="1467.5" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;span style=&quot;font-size: 20px&quot;&gt;发现球形互斥的簇&lt;br&gt;基于距离&lt;br&gt;可以用均值或中心点代表簇中心&lt;br&gt;对中小规模数据集有效&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="20" width="300" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Kmeans&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="160" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Kmediods&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="235" y="350" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="130" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;span style=&quot;font-size: 20px&quot;&gt;算法复杂度低O(nkt),n:对象总数，k:簇数，t:迭代次数&lt;br&gt;可伸缩性，有效&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="100" width="480" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;span style=&quot;font-size: 20px&quot;&gt;不能得到全局最优解，超参k不好选取，对离群点敏感，球状簇&lt;br&gt;不适合发现非凸形状的簇或者大小差别很大的簇&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="220" width="570" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;span style=&quot;font-size: 20px&quot;&gt;当存在噪声和离群点时，更加鲁棒&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="290" width="320" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;span style=&quot;font-size: 20px&quot;&gt;时间复杂度高，算法伸缩性不够好，超参数k不好选取，球状簇&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="400" width="570" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;span style=&quot;font-size: 20px&quot;&gt;不需要指定聚类数目，但需要终止条件，不能撤销&lt;/span&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="235" y="620" width="460" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;span style=&quot;font-size: 20px&quot;&gt;BIRCH（CFTree）&lt;br&gt;平衡迭代归约聚类&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="730" width="190" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;span style=&quot;font-size: 20px&quot;&gt;支持增量聚类，线性可伸缩，可以撤销先前步骤&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="697.5" width="440" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="215" y="180" width="20" height="370" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="110" width="20" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="300" width="20" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;span style=&quot;font-size: 20px&quot;&gt;生成簇不自然，对输入顺序敏感,形成的簇趋向于球形，只能处理数值数据&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="790" width="660" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;span style=&quot;font-size: 20px&quot;&gt;AGNES(凝聚的层次聚类)&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="855" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;span style=&quot;font-size: 20px&quot;&gt;DIANA(分裂的层次聚类)&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="1000" width="230" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" parent="1" vertex="1">
+                    <mxGeometry x="394" y="702.5" width="20" height="95" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="745" width="20" height="365" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Chameleon&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="1090" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;span style=&quot;font-size: 20px&quot;&gt;与BIRCH和DBSCAN相比高质量的任意形状的簇有更强能力，最坏 $$O(n^2)$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="1110" width="710" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;span style=&quot;font-size: 20px&quot;&gt;CLARA:基于抽样的方法,对Kmediods的改进，适合大数据集，但依赖于所抽取的样本,如果样本发生倾斜，则样本聚类不能反映全局聚类&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="235" y="460" width="1210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;CLARANS:聚类的开销有效性之间的权衡&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="530" width="550" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;span style=&quot;font-size: 20px&quot;&gt;发现任意形状的簇，只需一次扫描，能处理噪声，但需要密度参数作为终止条件&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="1200" width="720" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="&lt;span style=&quot;font-size: 20px&quot;&gt;DBSCAN&lt;br&gt;直接密度可达&lt;br&gt;密度可达&lt;br&gt;密度相连&lt;br&gt;密度相连的点得最大集合&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="1265" width="240" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;span style=&quot;font-size: 20px&quot;&gt;如果用空间索引，复杂度为$$O(nlog(n))$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="385" y="1280" width="390" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&lt;font style=&quot;font-size: 20px&quot;&gt;对参数敏感，不用空间索引，复杂度为$$O(n^2)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="1350" width="460" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="&lt;span style=&quot;font-size: 20px&quot;&gt;OPTICS&lt;br&gt;DBSCAN的扩展&lt;br&gt;核心距离，可达距离&lt;br&gt;通过点排序识别聚类结构&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="1425" width="240" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="&lt;span style=&quot;font-size: 20px&quot;&gt;如果用空间索引，复杂度为$$O(nlog(n))$$，自动的，交互式聚类&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="1460" width="590" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="&lt;font style=&quot;font-size: 20px&quot;&gt;不用空间索引，复杂度为$$O(n^2)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="1610" width="340" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="&lt;font style=&quot;font-size: 20px&quot;&gt;伸缩性不够好&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="855" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="&lt;span style=&quot;font-size: 20px&quot;&gt;ROCK(凝聚的层次聚类)&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="910" width="230" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="&lt;span style=&quot;font-size: 20px&quot;&gt;适用于分类属性&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="910" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="&lt;span style=&quot;font-size: 20px&quot;&gt;混合密度模型：EM期望最大算法&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="225" y="1680" width="310" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="1235" width="20" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="1410" width="20" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="1265" width="20" height="425" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="&lt;span style=&quot;font-size: 20px&quot;&gt;速度快&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="1770" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;span style=&quot;font-size: 20px&quot;&gt;STING&lt;br&gt;基于网格的多分辨率聚类技术&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="205" y="1905" width="280" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="&lt;span style=&quot;font-size: 20px&quot;&gt;查询处理时间为$$O(g)$$,g是最底层网格数目，通常远远小于n&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="1850" width="570" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="&lt;span style=&quot;font-size: 20px&quot;&gt;聚类质量取决于网络结构最底层的粒度。&lt;br&gt;粒度很细，处理代价增加。粒度太粗，降低聚类质量。&lt;br&gt;所有簇不是水平的就是竖直的，没有斜的分界线&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="1970" width="500" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="1850" width="20" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="&lt;span style=&quot;font-size: 20px&quot;&gt;CLIQUE&lt;br&gt;互连的稠密数据单元&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="215" y="2130" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="&lt;span style=&quot;font-size: 20px&quot;&gt;自动发现含有高密度簇的最高维子空间&lt;br&gt;对输入顺序不敏感&lt;br&gt;无需假定任何规范的数据分布&lt;br&gt;随输入规模线性伸缩，当维度增加具有良好伸缩性&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="590" y="2100" width="460" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="&lt;span style=&quot;font-size: 20px&quot;&gt;正确调整网格大小和密度阈值很困难&lt;br&gt;作为简洁性的代价，聚类精度降低&lt;br&gt;对于k维稠密区域，(k-1)维也是稠密的，所报告的稠密区域有大量重叠&lt;br&gt;很难发现不同维子空间上密度差异较大的簇&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="2220" width="630" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="2120" width="20" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="30" width="20" height="2150" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="1920" width="20" height="240" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
